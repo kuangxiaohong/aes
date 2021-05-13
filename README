@@ -1,0 +1,6 @@
+运行
+软件测试执行./run_software.sh
+硬件测试执行./run_hardware.sh.
+
+说明:
+1.aes_cbc模式硬件是采用openssl自带硬件处理代码。
